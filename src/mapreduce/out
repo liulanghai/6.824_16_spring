@@ -1,0 +1,7 @@
+=== RUN TestBasic
+start worker0 done!foristkiritoRunWorker /var/tmp/824-1043/mr23301-worker0
+/var/tmp/824-1043/mr23301-master: Starting Map/Reduce task test
+Schedule: 100 Map tasks (50 I/Os)
+done1-------
+worker number 0exit status 2
+FAIL	_/home/foristkirito/mit_6_824/lb1/6.824/src/mapreduce	0.265s
